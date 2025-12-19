@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "adspower-local-api": {
+      "command": "node",
+      "args": [
+        "/Users/evs/www/YT/veo-flow/local-api-mcp-typescript/build/index.js"
+      ],
+      "env": {
+        "ADSPOWER_API_KEY": "25112279957c73485283081429ac5fd0"
+      }
+    }
+  }
+}
+
+
