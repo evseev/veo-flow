@@ -1,0 +1,24 @@
+{
+  "name": "veo-flow",
+  "version": "1.0.0",
+  "description": "Automation flows for AdsPower browser profiles using Playwright",
+  "main": "playwright-automation.js",
+  "scripts": {
+    "automate": "node playwright-automation.js",
+    "flows": "node automation-flows.js",
+    "google-flow": "node google-flow-automation.js",
+    "flow": "node google-flow-automation.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "playwright": "^1.51.1"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "adspower",
+    "browser"
+  ],
+  "author": "",
+  "license": "ISC"
+}
